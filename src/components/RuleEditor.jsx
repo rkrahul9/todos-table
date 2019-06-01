@@ -53,6 +53,13 @@ export default class RuleEditor extends Component {
 				name: 'Tyrion Lannister',
 				age: 35,
 			}
+		},{
+			name: 'Jamie Longhorn',
+			age: 50,
+			friend: {
+				name: 'Tywin Mills',
+				age: 65,
+			}
 		}];
 
 		const columns = [{
